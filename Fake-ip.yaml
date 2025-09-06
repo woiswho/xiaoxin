@@ -1,3 +1,7 @@
+#抖音
+DOMAIN-SUFFIX,amemv.com
+IP-CIDR,183.250.178.164/32
+AND((DOMAIN-SUFFIX,amemv.com),(NETWORK,UDP))
 #快手
 DOMAIN-SUFFIX,az3-api.ksapisrv.com
 #微博
