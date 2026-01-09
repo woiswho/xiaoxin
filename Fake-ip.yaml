@@ -1,7 +1,8 @@
 #抖音
-DOMAIN-SUFFIX,amemv.com
-IP-CIDR,183.250.178.164/32
-AND((DOMAIN-SUFFIX,amemv.com),(NETWORK,UDP))
+DOMAIN-SUFFIX,douyin.com,IP-modification
+DOMAIN-SUFFIX,douyincdn.com,IP-modification
+DOMAIN-SUFFIX,snssdk.com,IP-modification
+DOMAIN-SUFFIX,amemv.com,IP-modification
 #快手
 DOMAIN-SUFFIX,az3-api.ksapisrv.com
 #微博
