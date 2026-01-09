@@ -6,6 +6,13 @@ DOMAIN-SUFFIX,douyin.com,IP-modification
 DOMAIN-SUFFIX,douyincdn.com,IP-modification
 DOMAIN-SUFFIX,snssdk.com,IP-modification
 DOMAIN-SUFFIX,amemv.com,IP-modification
+DOMAIN-SUFFIX,douyin.com,fake-ip
+DOMAIN-SUFFIX,snssdk.com,fake-ip
+DOMAIN-SUFFIX,amemv.com,fake-ip
+DOMAIN-SUFFIX,ixigua.com,fake-ip
+DOMAIN-SUFFIX,volcdn.com,fake-ip
+DOMAIN-KEYWORD,aweme,fake-ip
+DOMAIN-KEYWORD,bytedance,fake-ip
 #快手
 DOMAIN-SUFFIX,az3-api.ksapisrv.com
 #微博
